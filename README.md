@@ -1,6 +1,6 @@
 # ProtNet
 - Perform protein network inference from RPPA data with 13 methods. 
-- [Web application](http://projects.sanderlab.org/protnet/) developed by Onur Sumer allows cancer proteomic network visualization with public and user-owned datasets.
+- [Web application](http://projects.sanderlab.org/protnet/) allows cancer proteomic network visualization with public and user-owned datasets.
 ![ProtNet](./protnet_app.jpg)
 
 
