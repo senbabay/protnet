@@ -4,6 +4,7 @@
 # Required libraries and functions
 #################################################
 # ppls and parcor are removed from CRAN, they need to be downloaded and installed
+# These can be found in this repository under protnet/CODE/
 #install.packages("ppls_1.6-1.tar.gz",repos=NULL,type="source",dependencies=TRUE)
 #install.packages("parcor_0.2-6.tar.gz",repos=NULL,type="source",dependencies=TRUE)
 library(parcor)
