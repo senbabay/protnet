@@ -1,5 +1,7 @@
-# protnet
-Perform protein network inference from RPPA data with 13 methods
+# ProtNet
+- Perform protein network inference from RPPA data with 13 methods. 
+- [ProtNet web application](http://projects.sanderlab.org/protnet/) allows cancer proteomic network visualization with public and user-owned datasets.
+
 
 # Methods
 - Methods that do not require parameter optimization are GeneNet (shrunken covariance matrix), Simple Partial Correlation (regular covariance matrix), Spearman Correlation and Pearson Correlation.
