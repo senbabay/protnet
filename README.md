@@ -16,5 +16,3 @@ Perform protein network inference from RPPA data with 13 methods
 
 2) choose_best_parameter.r 
 - Determine optimal parameter values and resulting edge predictions for methods that require parameter optimization
-- The ground truth is the set of edges extracted from Pathway Commons using PERA.
-- Computing AUPR is done by the function longPrecisionRecall. For sparse methods, this function will randomly assign orders for zero-weight edges.
